@@ -1,4 +1,5 @@
-#main {
-  font-weight: bolder;
-  background-color: aqua;
+button {
+  background-color: rgb(217, 33, 143);
+  color: aliceblue;
+  border-radius: 1rem;
 }
